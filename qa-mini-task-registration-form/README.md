@@ -23,7 +23,7 @@ All names and URLs are removed.
 - `03-Bug-List/` — full list of bugs (one-line format)
 - `04-Evidence/` — screenshots (company details redacted)
 - `05-Retrospective/` — lessons learned & improvements
-- `06-Docs/` — environment & checklist
+- `06-Docs/` — environment
 
 ---
 
@@ -31,4 +31,5 @@ All names and URLs are removed.
 
 - All company-specific details have been anonymized.
 - The form URL is replaced with `[redacted]`.
+
 - Screenshots and bug reports are my own work.
