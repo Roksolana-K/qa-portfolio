@@ -43,17 +43,15 @@ The project demonstrates my ability to:
 
 ---
 
----
-
 ## 🧩 Environment
 - OS: Windows 11  
 - Browser: Chrome (latest)  
 - Application: JPetStore Demo  
-- Type: Manual Functional + UI
 
 ---
 
 ## 📚 Notes
 This project is based on the QA course assignment.  
 All documentation (checklist, reports, bug writing) was created by me manually.
+
 
