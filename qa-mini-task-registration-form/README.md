@@ -19,11 +19,22 @@ All names and URLs are removed.
 
 ## Deliverables in This Repository
 
-- `02-Bug-Report/` — my detailed bug report (Markdown + evidence)
-- `03-Bug-List/` — full list of bugs (one-line format)
-- `04-Evidence/` — screenshots (company details redacted)
-- `05-Retrospective/` — lessons learned & improvements
-- `06-Docs/` — environment
+- `BUG-001.md` — my detailed bug report
+- `bug-list.txt` — full list of bugs
+- `Evidence/` — screenshots
+
+---
+
+## Environment
+
+| Component          | Value                                   |
+|--------------------|-----------------------------------------|
+| Operating System   | Windows 11 Pro (64-bit)                 |
+| Browser            | Google Chrome 140.0.7339.8 (stable)     |
+| Device             | Desktop (1920×1080)                     |
+| Test Data          | Random emails, passwords, DOB           |
+| Tools              | Chrome DevTools (Elements, Network, Console)|
+| Evidence Storage   | /qa-mini-task-registration-form/04-Evidence/ |
 
 ---
 
@@ -33,3 +44,17 @@ All names and URLs are removed.
 - The form URL is replaced with `[redacted]`.
 
 - Screenshots and bug reports are my own work.
+
+---
+
+## Restrospective
+
+- The initial assignment and its original submission differ from the current portfolio version.
+- I worked on the mistakes and expanded the scope of checks, paying more attention to detail.
+- There is still room for growth:
+  - improove my understanding of JavaScript errors and form-backend interaction;
+  - learning to develop a checklist and a test plan before testing;
+  - improove my sysematic approach to exploratory testing;
+
+This project in my portfolio shows how I can review previous work, draw conclusions, and improve it.
+
