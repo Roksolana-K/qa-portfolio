@@ -64,7 +64,7 @@
 | 33 | 20 | 12 | 1 |
 
 > **12 bugs found:** 5 Critical, 2 Major, 3 Moderate, and 2 Minor  
-> See detailed reports in `/bug_reports/`.
+> See detailed reports in `bug_reports.md`.
 
 ---
 
