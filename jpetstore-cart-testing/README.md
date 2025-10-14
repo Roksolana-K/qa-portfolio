@@ -19,9 +19,9 @@ The project demonstrates my ability to:
 | Folder / File | Description |
 |----------------|-------------|
 | `requirements.md` | Original requirements provided in the course |
-| `checklist/` | Test checklist with execution results |
-| `bug_reports/` | Detailed bug reports (12 total) |
-| `media/` | Screenshots and short videos showing bugs |
+| `checklist.md` | Test checklist with execution results |
+| `bug_reports.md` | Detailed bug reports (12 total) |
+| `attachments/` | Screenshots and short videos showing bugs |
 
 ---
 
@@ -56,3 +56,4 @@ The project demonstrates my ability to:
 ## 📚 Notes
 This project is based on the QA course assignment.  
 All documentation (checklist, reports, bug writing) was created by me manually.
+
