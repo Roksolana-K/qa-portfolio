@@ -25,6 +25,9 @@ This repository is a collection of my learning and test assignments, organized i
   A hiring-task mini project testing an anonymized public demo registration form with intentionally seeded bugs.    
   I executed manual testing, produced one detailed bug report, and compiled a compact bug list   
   Includes: `README.md`, `BUG-001.md`, `bug-list.txt`, and `Evidence/ `.
+- **[Site Decomposition](https://github.com/Roksolana-K/qa-portfolio/tree/main/site-decomposition)**    
+  Goal: analyze the web app and break it down into pages, components, states, and basic flows.    
+  Includes: `README.md` and `decomposition.pdf`.
   
 - *(coming soon)* More test assignments and learning projects.
 
