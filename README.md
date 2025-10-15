@@ -6,9 +6,6 @@ I’m a QA Engineer developing my skills in software testing and creating real-l
 This repository is a collection of my learning and test assignments, organized in a way that reflects real-world project structure and QA practices.
 
 
-
-
-
 ## Take a shortcut 🏃‍♀️‍➡️
  - 📁 [Projects](https://github.com/Roksolana-K/manual-qa-portfolio/edit/main/README.md#-projects)
  - 💻 [Practical skills and tools](https://github.com/Roksolana-K/manual-qa-portfolio/edit/main/README.md#-practical-skills-and-tools)
@@ -17,15 +14,17 @@ This repository is a collection of my learning and test assignments, organized i
 ---
 
 ## 📁 Projects
-- **[QA Mini Task — Registration Form](./qa-mini-task-registration-form)**  
-  A test assignment with an anonymized registration form: bug reports, bug list, evidence screenshots, and a retrospective.
+- **[Bugs From Screenshot (Mini-Project)](https://github.com/Roksolana-K/qa-portfolio/tree/main/bugs-from-screenshot)**   
+  Analyzed a single screenshot to spot product-side UI inconsistencies.   
+  Includes: `README.md`, `bug_reports/`, and `attachments/`.
 - **[JPetStore — Cart Testing Project](https://github.com/Roksolana-K/manual-qa-portfolio/tree/main/jpetstore-cart-testing)**  
-  A structured manual QA project based on a public demo web application (JPetStore).  
-  Includes:
-   - `requirements.md` — original requirements from the course
-   - `checklist.md` — detailed test checklist with execution results
-   - `bug_reports.md` — 12 documented defects with descriptions and evidence
-   - `attachments/` — screenshots and short videos showing bug reproduction
+  QA project focused on testing the JPetStore demo Cart feature against provided requirements.   
+  I analyzed requirements, created a detailed test checklist, executed manual tests, and documented 12 defects with evidence.  
+  Includes: `README.md`, `requirements.md`, `checklist.md`, `bug_reports.md`, and `attachments/`.
+- **[QA Mini Task — Registration Form](./qa-mini-task-registration-form)**  
+  A hiring-task mini project testing an anonymized public demo registration form with intentionally seeded bugs.    
+  I executed manual testing, produced one detailed bug report, and compiled a compact bug list   
+  Includes: `README.md`, `BUG-001.md`, `bug-list.txt`, and `Evidence/ `.
   
 - *(coming soon)* More test assignments and learning projects.
 
