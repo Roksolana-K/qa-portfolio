@@ -1,0 +1,31 @@
+# 🐞 Bugs From Screenshot
+
+
+**Given:** a link to one [screenshot](https://mate-academy-images.s3.eu-central-1.amazonaws.com/c8907025538486ce4c46981003fc83bc_da130fe234.png).  
+**Goal:** carefully review the screenshot and report at least 3 bugs.
+
+> Note: user-generated mistakes (e.g., a task title with a typo created by the user) are **not** reported as defects.
+
+---
+
+## Deliverables:
+- **bug-reports/** - a directory with all finded defects
+- **attachments/** - screenshots of issues
+
+---
+
+## Bugs List Quick Overview:
+- [JS-001 - _'To Do' board with error in title_](/02-bug-reports/BFS-001.md)
+- [JS-002 - _'Archive' status with typo_](/02-bug-reports/BFS-002.md)
+- [JS-003 - _board language not consistent_](/02-bug-reports/BFS-003.md)
+- [JS-004 - _'To Do' column font not consistent_](/02-bug-reports/BFS-003.md)
+- [JS-005 - _overdue tasks color not consistent_](/02-bug-reports/BFS-003.md)
+- [JS-006 - _'Done' column: some cards have date duplication_](/02-bug-reports/BFS-003.md)
+- [JS-007 - _'Menu' sidebar: amount of members displayed doesn't match_](/02-bug-reports/BFS-003.md)
+- [JS-008 - _'Menu' sidebar:'Invite...' icon not vertically centered_](/02-bug-reports/BFS-003.md)
+- [JS-009 - _'Menu' sidebar: 'Filter Cards' icon not aligned_](/02-bug-reports/BFS-003.md)
+- [JS-010 - _'Menu' sidebar: 'Filter Cards' style doesn't match the rest_](/02-bug-reports/BFS-003.md)
+- [JS-011 - _'Menu' sidebar: 'Stickers' option with typo_](/02-bug-reports/BFS-003.md)
+- [JS-012 - _'Menu' sidebar: 'Activity' section not sorted_](/02-bug-reports/BFS-003.md)
+
+---
