@@ -1,16 +1,16 @@
 # Test Design Techniques  
 
-## Overview
-Test design is a core QA skill: it turns vague requirements into focused, high-value tests that catch defects early and cheaply.
+Test design is a core QA skill: it turns vague requirements into focused, high-value tests.
 
 ## About this document
 This document compiles short tasks and my solutions using different test design techniques. Each task shows how I translate requirements into precise, reusable tests.
 
 ## Shortcuts
-- [Equivalence Classes](#equivalence-classes)
-- [Boundary Values Practice](#boundary-values-practice)
-- [Decision Table](#decision-table)
-- [State Diagram](#state-diagram)
+- [Equivalence Classes](https://github.com/Roksolana-K/qa-portfolio/edit/main/test-design-techniques/README.md#%EF%B8%8F-equivalence-classes)
+- [Boundary Values Practice](https://github.com/Roksolana-K/qa-portfolio/edit/main/test-design-techniques/README.md#%EF%B8%8F-boundary-values-practice)
+- [Decision Table](https://github.com/Roksolana-K/qa-portfolio/edit/main/test-design-techniques/README.md#%EF%B8%8F-decision-table)
+- [State Diagram](https://github.com/Roksolana-K/qa-portfolio/edit/main/test-design-techniques/README.md#%EF%B8%8F-state-diagram)
+- [Pairwise Technique](https://github.com/Roksolana-K/qa-portfolio/edit/main/test-design-techniques/README.md#%EF%B8%8F-parwise)
 
 ---
 
@@ -117,7 +117,7 @@ Also, I think that **if needed, you can add TC16** (everything empty) to confirm
 
 
 
-## ✏️ Parwise
+## ✏️ Parwise Technique
 ### Task
 Create a **pairwise table** which will cover the next input parameters for testing:
   - Resolutions: 1920x1080, 1366x768;
@@ -133,5 +133,6 @@ Create a **pairwise table** which will cover the next input parameters for testi
 
 ![Parwise Tool](attachments/pairwise_tool.png)
 
-**Results:**
+**Results:**   
 ![Parwise Results](attachments/pairwise_results.png)
+
