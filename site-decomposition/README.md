@@ -1,4 +1,4 @@
-# Conduit - Site Decomposition (Logged-in User)
+# 👀 Site Decomposition
 
 **About the task**  
 This is a course assignment I completed as part of a Manual QA program.    
