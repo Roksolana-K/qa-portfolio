@@ -7,9 +7,9 @@ This repository is a collection of my learning and test assignments, organized i
 
 
 ## Take a shortcut 🏃‍♀️‍➡️
- - 📁 [Projects](https://github.com/Roksolana-K/manual-qa-portfolio/edit/main/README.md#-projects)
- - 💻 [Practical skills and tools](https://github.com/Roksolana-K/manual-qa-portfolio/edit/main/README.md#-practical-skills-and-tools)
- - 📲 [Contact Me](https://github.com/Roksolana-K/manual-qa-portfolio/edit/main/README.md#-contact-me)
+ - 📁 [Projects](#-projects)
+ - 💻 [Practical skills and tools](#-practical-skills-and-tools)
+ - 📲 [Contact Me](#-contact-me)
 
 ---
 
