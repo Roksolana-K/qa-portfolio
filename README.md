@@ -28,7 +28,9 @@ This repository is a collection of my learning and test assignments, organized i
 - **[Site Decomposition](https://github.com/Roksolana-K/qa-portfolio/tree/main/site-decomposition)**    
   Goal: analyze the web app and break it down into pages, components, states, and basic flows.    
   Includes: `README.md` and `decomposition.pdf`.
-  
+- **[SQL Practice](https://github.com/Roksolana-K/qa-portfolio/tree/main/sql-practice)**    
+  I created and modified tables, inserted and updated data, deleted records, and defined proper constraints in a local SQLite database.
+  Includes: `README.md` and `practice.sql`.
 - *(coming soon)* More test assignments and learning projects.
 
 ---
